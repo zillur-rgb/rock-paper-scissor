@@ -52,3 +52,8 @@ img{
     cursor: pointer;
     color: sienna;
 }
+
+.result{
+    padding: 3rem 3rem;
+    border: 1px solid rgb(184, 184, 184);
+}
